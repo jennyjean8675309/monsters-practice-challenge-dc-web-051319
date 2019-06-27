@@ -6005,6 +6005,24 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Swamp Thing",
+      "age": "500",
+      "description": "Gross.",
+      "id": 1002
+    },
+    {
+      "name": "Dracula",
+      "age": "5000",
+      "description": "Very old.",
+      "id": 1003
+    },
+    {
+      "name": "Sasquatch",
+      "age": "1000",
+      "description": "Hairy.",
+      "id": 1004
     }
   ]
 }
